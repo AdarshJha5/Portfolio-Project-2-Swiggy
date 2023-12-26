@@ -1,10 +1,5 @@
 # Portfolio-Project-2-Swiggy Restaurants Dataset 
 
-**DASHBOARD**
-
-![Dashboard](https://github.com/AdarshJha5/Portfolio-Project-2-Swiggy/assets/153823115/95fb61ce-725b-426f-ba22-834ff1f9e2f1)
-
-
 **About Dataset**
 This dataset contains 10 different features of each restaurant listed on the website of Swiggy which you can find below
 
@@ -18,3 +13,7 @@ This dataset contains 10 different features of each restaurant listed on the web
 **Lic_no** - License number of that restaurant
 **Link** - Restaurant link on Swiggy website
 **Address** - Full address of the restaurant
+
+**DASHBOARD**
+
+![Dashboard](https://github.com/AdarshJha5/Portfolio-Project-2-Swiggy/assets/153823115/95fb61ce-725b-426f-ba22-834ff1f9e2f1)
