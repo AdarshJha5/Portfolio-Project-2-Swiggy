@@ -6,14 +6,23 @@ This dataset contains 10 different features of each restaurant listed on the web
 **Id** - Every restaurant is having a unique ID
 
 **Name** - Name of the Restaurant
+
 **City** - The city where the restaurant is located
+
 **Rating** - Rating of the Restaurant
+
 **Rating_count** - Number of People given the Rating
+
 **Cost** - Cost of eating in that restaurant
+
 **Cuisine** - Cuisines that restaurant serves
+
 **Lic_no** - License number of that restaurant
+
 **Link** - Restaurant link on Swiggy website
+
 **Address** - Full address of the restaurant
+
 
 **DASHBOARD**
 
