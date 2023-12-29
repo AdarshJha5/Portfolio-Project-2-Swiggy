@@ -16,9 +16,14 @@ This dataset contains 10 different features of each restaurant listed on the web
 
 
 
-## DASHBOARD
+##  OVERVIEW DASHBOARD
 
 ![Dashboard](https://github.com/AdarshJha5/Portfolio-Project-2-Swiggy/assets/153823115/95fb61ce-725b-426f-ba22-834ff1f9e2f1)
+
+## DASHBOARD - CITY[Delhi]
+
+![Dashboard-Delhi](https://github.com/AdarshJha5/Portfolio-Project-2-Swiggy/assets/153823115/38c22d84-2688-4186-bb8b-c3d1a7dd833c)
+
 
 ## Acknowledgments
 
