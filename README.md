@@ -24,7 +24,9 @@ This dataset contains 10 different features of each restaurant listed on the web
 
 ![Dashboard-Delhi](https://github.com/AdarshJha5/Portfolio-Project-2-Swiggy/assets/153823115/38c22d84-2688-4186-bb8b-c3d1a7dd833c)
 
+## Dataset
 
+https://drive.google.com/drive/folders/1sXloI-SLNAu-qJRJnEZiWPo159h8GUIp?usp=sharing
 ## Acknowledgments
 
 The data has been scraped from the official Swiggy Website and is available under the Creative Commons License.
